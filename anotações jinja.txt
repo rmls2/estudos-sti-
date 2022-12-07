@@ -1,0 +1,35 @@
+um template jinja é um simples arquivo de texto. 
+pode gerar qualquer formato de aquivo de texto, html, xml, csv, latex. Ele não tem uma extensão específia.
+
+**delimitadores em jinja**
+{%   %} --> para declarações/ bloco lógico.
+{{   }} -->  para imprimir alguma coisa no modelo
+{#   #} --> para comentarios 
+
+
+* variáveis *
+
+vc pode acessar um atributo de uma variável usando 
+
+{{ foo.bar }}
+{{ foo['bar'] }}
+
+*filtros*
+
+podem modificar a a variável e são separados da variável por um símbolo de '|'. Há alguns filtros que possuem argumentos e por isso usam '( )'. 
+
+exemplo: Filters that accept arguments have parentheses around the arguments, just like a function call. For example: {{ listx|join(', ') }} will join a list with commas.
+
+*testes* 
+
+testa uma variável em relação a uma expressão (que será o teste).
+se usa 'is' para testar uma variável em relação ao que vc quer testar.
+
+{% if loop.index is divisibleby(3) %}
+
+
+markdown - pesquisar.
+assets - convenção de como chamamos pasta de anexos.
+
+
+
