@@ -1,0 +1,18 @@
+*MarkDown* - é uma linguagem de marcação, uma linguagem de edição de textoque formata o texto em HTML. 
+
+Tem funcionalidades básicas como: 
+Títulos
+estilos de texto
+Realce de sintaxe
+régua horizontal
+Alinhamentos
+Tabelas
+links
+Imagens
+Listas
+
+Cabeçalho (headings): 
+
+# The largest heading
+## The second largest heading
+###### The smallest heading
