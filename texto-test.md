@@ -3,7 +3,7 @@
 
 
 
-esse é um **texto** de exemplooo.  
+esse é um **texto** de exemplo.  
 encontre mais informações em [vai se ferrar](https://www.alura.com.br/artigos/como-trabalhar-com-markdown#:~:text=Markdown%20%C3%A9%20um%20formato%20de,mais%20complexas%2C%20como%20o%20HTML.)
 
 
